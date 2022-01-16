@@ -1,8 +1,8 @@
 # GUI_Translator
 GUI สำหรับการเเปลภาษา เเปลได้ทุกภาษา\
 ดาวน์โหลดไฟล zip\
-ก่อนจะใช้งานต้องลง library ก่อน ถ้าไม่ลงรันเเล้วจะเกิด error\
-วิธีลง library\
+ก่อนจะใช้งานต้องลง package ก่อน ถ้าไม่ลงรันเเล้วจะเกิด error\
+วิธีลง package\
  -เปิด cmd \
  -เขียนคำสั่ง pip install googletrans\
  -enter\
